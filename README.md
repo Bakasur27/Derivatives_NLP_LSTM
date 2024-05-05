@@ -1,4 +1,4 @@
-# NLP take-home: Derivatives
+# Taking Derivatives using NLP
 
 ### Problem Statement
 
